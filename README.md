@@ -178,5 +178,11 @@ CareerTwin AI aims to make career development more intelligent and personalized 
 Instead of providing generic career advice, it uses semantic retrieval and LLM-powered generation to produce actionable career roadmaps aligned with each user's background and ambitions.
 
 ---
+<p align="center">
+🚀Built with Python, RAG, FAISS, Sentence Transformers & Ollama. 
+</p>
 
-**Built with Python, RAG, FAISS, Sentence Transformers & Ollama.** 🚀
+---
+<p align="center">
+  ⭐ If you find this project interesting, feel free to star the repository!
+</p>
